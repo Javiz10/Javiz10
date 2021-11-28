@@ -1,16 +1,51 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: EDUCACIÓN
+subtitle: 
+
+cover-img: /assets/img/pp.png
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/pp.png
+tags: [books, test]
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+EDUCACIÓN
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+SEI-Certified PSP Developer
+cover-img: /assets/img/SEI-Certifica.jpg
 
-What else do you need?
+Oracle Certified Professional, Java SE 6 Programmer
+cover-img: /assets/img/CertiOracles.jpg
 
-### My story
+### Escuela
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Eduacion Basica-Bachiller - Junio 2012 -- Promedio Ponderado: 18.25 / 10.00
+Proyecto de Escolar:Blog Tecnologico
+Informatico y Computacion
+• Director: Ing. Roger Ortiz
+
+### Colegio
+ITS "Manuel Galecion"/ Alausi / Ecuador
+Tecnico de Servicios Aplicaciones Informaticas - Julio 2017 -- Promedio Ponderado: 8.50 / 10.00
+Programador en Visual base
+Programador en C++
+Programador en Microsoft Visual Studio
+Tecnico de Servicios Aplicaciones Informaticas
+• Director: Eraldo Ramirez Ortiz
+• Secretaria: Gladis Pilco Siguencia
+
+### ESTFORSEG
+
+ESTFORSEG"/ Alausi / Ecuador
+Guardia de vigilancia y seguridad privada modalida fija - Abril 2018-- Promedio Ponderado: 19:50 / 20.00
+• Director: Tnte.SP.Lcd.Carlos Enriquez C
+• Cordinador: Ing Fabricio Cabrera 
+### Universidad
+Universida Nacional de Chimborazo / Riobamba / Ecuador
+Ingeniero de Sistemas-- Junio 2021 -- Promedio Ponderado: 9.80 / 10.00
+Proyecto de Grado: TLUHS: The LinUx Hardening System.
+Pagina Oficial: http://sourceforge.net/projects/tluhs/
+• Director: Ing. Roger Ortiz
+• Area de Estudio: Seguridad Inform ´ atica
+
+

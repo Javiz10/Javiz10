@@ -2,11 +2,11 @@
 layout: post
 title: DATOS GENERALES
 subtitle: Raul Javier Guiñan Quiroz
-xaviz7quiroa@gmail.com - raul.guinan@unach.edu.ec
- 21 años
- Nuevo Alausí /Alausí /Ecuador
- C.I 0605009786
- 2931716 - 0999065858
+- xaviz7quiroa@gmail.com - raul.guinan@unach.edu.ec
+ - 21 años
+ - Nuevo Alausí /Alausí /Ecuador
+ - C.I 0605009786
+ - 2931716 - 0999065858
 
 
 cover-img: /assets/img/pp.png
