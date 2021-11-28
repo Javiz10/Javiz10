@@ -14,8 +14,8 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Resources:
-    - Learn markdown: "https://www.markdowntutorial.com/"
+ TAREAS:
+    - RESUMEN: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #

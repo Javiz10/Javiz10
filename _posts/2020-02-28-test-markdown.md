@@ -1,5 +1,7 @@
 title: DATOS GENERALES
+
 subtitle: Raul Javier Guiñan Quiroz
+
 cover-img: /assets/img/pp.png
 thumbnail-img: /assets/img/j-q.jpg
 share-img: /assets/img/pp.png
