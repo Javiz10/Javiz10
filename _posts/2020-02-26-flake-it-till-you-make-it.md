@@ -2,19 +2,16 @@
 layout: post
 title: DATOS GENERALES
 subtitle: xaviz7quiroa@gmail.com - raul.guinan@unach.edu.ec
+subtitle: 21 años
+subtitle: Nuevo Alausí /Alausí /Ecuador
+subtitle: C.I 0605009786
+subtitle: 2931716 - 0999065858
+
 cover-img: /assets/img/p.gif
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/p.gif
 tags: [books, test]
 ---
-
-21 años
-Nuevo Alausí /Alausí /Ecuador
-Identificación: C.C. 1.020’716.737 de Ecuador ´ a
-2931716 - 0999065858
-Ingeniero de Sistemas
-
-
 
 PERFIL PROFESIONAL
 
