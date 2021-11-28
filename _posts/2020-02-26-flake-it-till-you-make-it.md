@@ -1,12 +1,11 @@
-
+---
 layout: page
 title: EDUCACIÓN
 subtitle: 
 
 cover-img: /assets/img/pp.png
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/ED.jpg
-tags: [books, test]
+thumbnail-img: /assets/img/ED.jpg
+share-img: /assets/img/pp.png
 tags: [books, test]
 ---
 ### Escuela
@@ -39,7 +38,5 @@ Proyecto de Grado: TLUHS: The LinUx Hardening System.
 Pagina Oficial: http://sourceforge.net/projects/tluhs/
 • Director: Ing. Roger Ortiz
 • Area de Estudio: Seguridad Inform ´ atica
-
-
 
 
