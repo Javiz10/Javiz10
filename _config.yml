@@ -16,10 +16,10 @@ author: Javier Quiroz
 navbar-links:
   TAREAS:
     - Resumen : "https://view.genial.ly/61a3a80ad7ae3c0d78f4dc8f/presentation-presentacion-asignatura"
-  Author's home: "https://deanattali.com"
+  Autor:Javier Quiroz: "https://view.genial.ly/5efd4ac332d4b00d7d09045d/horizontal-infographic-diagrams-educacion"
 
 # --- Logo --- #
-avatar: "/assets/img/JAVI7.png"
+avatar: "/assets/img/j-q.jpg"
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
 
