@@ -1,29 +1,48 @@
 ---
 layout: post
-title: DATOS GENERALES
-subtitle: Raul Javier Guiñan Quiroz
+---
+layout: page
+title: EDUCACIÓN
+subtitle: 
+
 cover-img: /assets/img/pp.png
-thumbnail-img: /assets/img/j-q.jpg
+thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/pp.png
 tags: [books, test]
 ---
-- xaviz7quiroa@gmail.com - raul.guinan@unach.edu.ec
- - 21 años
- - Nuevo Alausí /Alausí /Ecuador
- - C.I 0605009786
- - 2931716 - 0999065858
 
-PERFIL PROFESIONAL
 
-Ingeniero de Sistemas, con amplios conocimientos de Ingenier´ıa de Software y Programacion´ de Computadores para aplicaciones empresariales.
-Integro, autogestionado, con alta capacidad de autoaprendizaje y liderazgo. Con intereses en practicas de calidad, ´ diseno y arquitectura software.
-Ingeniero de sistemas y telecomunicaciones con capacidad de liderazgo, habilidad y experiencia para
-planear, analizar, diseñar, implementar, medir, verificar y auditar sistemas de información , Excelentes
-resultados en la Administración y manejo de Procesos; dirigiendo grupos de personas, capacitándolas a
-través de la aplicaciones adecuadas para su buen rendimiento, aplicación de metodologías de análisis y
-diseño reconocidas, con experiencia en la parte comercial, en el área de soporte, con una asimilación
-rápida de conocimientos y tecnologías, buena experiencia para trabajar bajo presión
-Me caracterizo por ser una persona responsable, honesta, dinámica con buenas relaciones interpersonales,
-con la capacidad de liderazgo para el trabajo en equipo, con profesionalismo y objetividad, puesto que con
-mi formación personal, académica y profesional he obtenido logros positivos.
+### Escuela
+
+Eduacion Basica-Bachiller - Junio 2012 -- Promedio Ponderado: 18.25 / 10.00
+Proyecto de Escolar:Blog Tecnologico
+Informatico y Computacion
+• Director: Ing. Roger Ortiz
+
+### Colegio
+ITS "Manuel Galecion"/ Alausi / Ecuador
+Tecnico de Servicios Aplicaciones Informaticas - Julio 2017 -- Promedio Ponderado: 8.50 / 10.00
+Programador en Visual base
+Programador en C++
+Programador en Microsoft Visual Studio
+Tecnico de Servicios Aplicaciones Informaticas
+• Director: Eraldo Ramirez Ortiz
+• Secretaria: Gladis Pilco Siguencia
+
+### ESTFORSEG
+
+ESTFORSEG"/ Alausi / Ecuador
+Guardia de vigilancia y seguridad privada modalida fija - Abril 2018-- Promedio Ponderado: 19:50 / 20.00
+• Director: Tnte.SP.Lcd.Carlos Enriquez C
+• Cordinador: Ing Fabricio Cabrera 
+### Universidad
+Universida Nacional de Chimborazo / Riobamba / Ecuador
+Ingeniero de Sistemas-- Junio 2021 -- Promedio Ponderado: 9.80 / 10.00
+Proyecto de Grado: TLUHS: The LinUx Hardening System.
+Pagina Oficial: http://sourceforge.net/projects/tluhs/
+• Director: Ing. Roger Ortiz
+• Area de Estudio: Seguridad Inform ´ atica
+
+
+
 
