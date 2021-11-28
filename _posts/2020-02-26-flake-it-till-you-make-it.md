@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DATOS GENERALES
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: xaviz7quiroa@gmail.com - raul.guinan@unach.edu.ec
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
@@ -13,7 +13,6 @@ Nuevo Alausí /Alausí /Ecuador
 Identificación: C.C. 1.020’716.737 de Ecuador ´ a
 2931716 - 0999065858
 Ingeniero de Sistemas
-xaviz7quiroa@gmail.com - raul.guinan@unach.edu.ec
 
 
 
