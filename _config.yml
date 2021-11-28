@@ -9,14 +9,13 @@
 title: Javier Quiroz
 
 # Your name to show in the footer
-author: Some Person
+author: Javier Quiroz
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  TAREAS:
+    - Resumen : "https://beautifuljekyll.com"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
