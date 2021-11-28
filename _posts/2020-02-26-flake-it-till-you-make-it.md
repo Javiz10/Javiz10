@@ -7,11 +7,9 @@ subtitle:
 
 cover-img: /assets/img/pp.png
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/pp.png
+share-img: /assets/img/ED.jpg
 tags: [books, test]
 ---
-
-
 ### Escuela
 
 Eduacion Basica-Bachiller - Junio 2012 -- Promedio Ponderado: 18.25 / 10.00
