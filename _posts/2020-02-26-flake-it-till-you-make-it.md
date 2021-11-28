@@ -1,6 +1,4 @@
----
-layout: post
----
+
 layout: page
 title: EDUCACIÓN
 subtitle: 
@@ -8,6 +6,7 @@ subtitle:
 cover-img: /assets/img/pp.png
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/ED.jpg
+tags: [books, test]
 tags: [books, test]
 ---
 ### Escuela

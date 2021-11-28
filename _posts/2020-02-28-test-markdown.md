@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 title: DATOS GENERALES
 
 subtitle: Raul Javier Guiñan Quiroz
