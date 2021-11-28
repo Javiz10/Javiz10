@@ -2,7 +2,7 @@
 layout: post
 title: DATOS GENERALES
 subtitle: xaviz7quiroa@gmail.com - raul.guinan@unach.edu.ec
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/pp.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
