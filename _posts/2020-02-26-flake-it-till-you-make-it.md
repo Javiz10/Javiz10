@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Flake it till you make it
+title: DATOS GENERALES
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
-DATOS GENERALES:
+
 21 años
 Nuevo Alausí /Alausí /Ecuador
 Identificación: C.C. 1.020’716.737 de Ecuador ´ a
@@ -17,7 +17,19 @@ xaviz7quiroa@gmail.com - raul.guinan@unach.edu.ec
 
 
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+PERFIL PROFESIONAL
+
+Ingeniero de Sistemas, con amplios conocimientos de Ingenier´ıa de Software y Programacion´ de Computadores para aplicaciones empresariales.
+Integro, autogestionado, con alta capacidad de autoaprendizaje y liderazgo. Con intereses en practicas de calidad, ´ diseno y arquitectura software.
+Ingeniero de sistemas y telecomunicaciones con capacidad de liderazgo, habilidad y experiencia para
+planear, analizar, diseñar, implementar, medir, verificar y auditar sistemas de información , Excelentes
+resultados en la Administración y manejo de Procesos; dirigiendo grupos de personas, capacitándolas a
+través de la aplicaciones adecuadas para su buen rendimiento, aplicación de metodologías de análisis y
+diseño reconocidas, con experiencia en la parte comercial, en el área de soporte, con una asimilación
+rápida de conocimientos y tecnologías, buena experiencia para trabajar bajo presión
+Me caracterizo por ser una persona responsable, honesta, dinámica con buenas relaciones interpersonales,
+con la capacidad de liderazgo para el trabajo en equipo, con profesionalismo y objetividad, puesto que con
+mi formación personal, académica y profesional he obtenido logros positivos.
 
 At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
 
