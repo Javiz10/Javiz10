@@ -39,14 +39,15 @@ Pagina Oficial: http://sourceforge.net/projects/tluhs/
 • Director: Ing. Roger Ortiz
 • Area de Estudio: Seguridad Inform ´ atica
 
-How about a yummy crepe?
+ITS "Manuel Galecion"/ Alausi / Ecuador
+![Crepe](https://drive.google.com/file/d/1kDpi48nEswxtfN3bEiZkEgNR9g_DRW1W/view?usp=sharing)
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-It can also be centered!
+Universida Nacional de Chimborazo / Riobamba / Ecuador
+![Crepe](https://drive.google.com/file/d/1Roh_sdBKSnmVZISvNwqOTD6d8I-961S1/view?usp=sharing){: .mx-auto.d-block :}
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
+ESTFORSEG"/ Alausi / Ecuador
 Here's a code chunk:
+![Crepe](https://drive.google.com/file/d/1ST7SJj7gt3bslbmnWz9ILByfhJki0G3-/view?usp=sharing)
 
 
