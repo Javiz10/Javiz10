@@ -32,9 +32,7 @@ Guardia de vigilancia y seguridad privada modalida fija - Abril 2018
 • Cordinador: Ing Fabricio Cabrera 
 ### Universidad
 Universida Nacional de Chimborazo / Riobamba / Ecuador
-Ingeniero de Sistemas-- Junio 2021 
-Proyecto de Grado: TLUHS: The LinUx Hardening System.
-Pagina Oficial: http://sourceforge.net/projects/tluhs/
+Ingeniero de Sistemas-- Junio 2022 
 • Director: Ing. Roger Ortiz
 • Area de Estudio: Seguridad Inform ´ atica
 
