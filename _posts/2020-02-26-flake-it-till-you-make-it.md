@@ -7,9 +7,9 @@ subtitle: Nuevo Alausí /Alausí /Ecuador
 subtitle: C.I 0605009786
 subtitle: 2931716 - 0999065858
 
-cover-img: /assets/img/p.gif
+cover-img: /assets/img/pp.png
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/p.gif
+share-img: /assets/img/pp.png
 tags: [books, test]
 ---
 
