@@ -44,7 +44,12 @@ ITS "Manuel Galecion"/ Alausi / Ecuador
 
 
 Universida Nacional de Chimborazo / Riobamba / Ecuador
-![Crepe](https://github.com/Javiz10/Javiz10/blob/main/assets/img/unnamed.png){: .mx-auto.d-block :}
+ <li>
+                <figure>
+                    <img src="/assets/img/unnamed.png"100" height="100" /> 
+                    <figcaption>ESTFORSEG"</figcaption>
+                </figure>
+            </li>
 
 ESTFORSEG"/ Alausi / Ecuador
 Here's a code chunk:
