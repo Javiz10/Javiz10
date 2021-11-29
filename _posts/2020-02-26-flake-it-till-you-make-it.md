@@ -72,6 +72,8 @@ visual studio code
 
 ### HABILIDADES
 
+La habilidad de enseñar 
+
 La habilidad de comprender diagramas y dibujos técnicos.
 
 Habilidades informáticas.
