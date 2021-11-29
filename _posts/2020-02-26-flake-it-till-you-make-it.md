@@ -9,20 +9,28 @@ share-img: /assets/img/pp.png
 tags: [books, test]
 ---
 ### Escuela
-
-Eduacion Basica-Bachiller - Junio 2012 -
+"Manuel Galecion"/ Alausi / Ecuador
+Eduacion Basica
 Proyecto de Escolar:Blog Tecnologico
+
 Informatico y Computacion
+
 • Director: Ing. Roger Ortiz
 
 ### Colegio
 ITS "Manuel Galecion"/ Alausi / Ecuador
 Tecnico de Servicios Aplicaciones Informaticas - Julio 2017 
+
 Programador en Visual base
+
 Programador en C++
+
 Programador en Microsoft Visual Studio
+
 Tecnico de Servicios Aplicaciones Informaticas
+
 • Director: Eraldo Ramirez Ortiz
+
 • Secretaria: Gladis Pilco Siguencia
 
 ### ESTFORSEG
