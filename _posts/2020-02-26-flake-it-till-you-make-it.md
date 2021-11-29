@@ -21,6 +21,7 @@ Informatico y Computacion
 
 ### Colegio
 ITS "Manuel Galecion"/ Alausi / Ecuador
+
 Tecnico de Servicios Aplicaciones Informaticas - Julio 2017 
 
 Programador en Visual base
@@ -38,13 +39,53 @@ Tecnico de Servicios Aplicaciones Informaticas
 ### ESTFORSEG
 
 ESTFORSEG"/ Alausi / Ecuador
+
 Guardia de vigilancia y seguridad privada modalida fija - Abril 2018
+
 • Cordinador: Ing Fabricio Cabrera 
 ### Universidad
 Universida Nacional de Chimborazo / Riobamba / Ecuador
+
 Ingeniero de Sistemas-- Junio 2022 
+
 • Director: Ing. Roger Ortiz
-• Area de Estudio: Seguridad Inform ´ atica
+
+• Area de Estudio: Seguridad Informatica
+
+• Creacion de juegos 
+
+Realidad Umentada 
+
+Programador en Visual base
+
+Programador en C++
+
+Programador en Microsoft Visual Studio
+
+Programador en Java
+
+Crear página web 
+
+visual studio code
+
+
+
+### HABILIDADES
+
+La habilidad de comprender diagramas y dibujos técnicos.
+
+Habilidades informáticas.
+
+Ser metódico y creativo.
+
+Mostrar una aproximación lógica al trabajo
+
+Habilidades organizativas, por ejemplo, para planificar proyectos.
+
+La habilidad de trabajar por su cuenta y en un equipo.
+
+Buenas habilidades para escribir y para generar informes.
+
 
 
 
