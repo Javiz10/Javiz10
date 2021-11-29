@@ -10,7 +10,9 @@ tags: [books, test]
 ---
 ### Escuela
 "Manuel Galecion"/ Alausi / Ecuador
+
 Eduacion Basica
+
 Proyecto de Escolar:Blog Tecnologico
 
 Informatico y Computacion
